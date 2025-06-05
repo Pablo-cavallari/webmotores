@@ -79,7 +79,7 @@ if (!isset($_SESSION['usuario_id']) || $_SESSION['tipo'] != 'USER') {
 
     <div class="links">
         <a href="menu.php">🏠 Painel</a>
-        <a href='listar.php'>📄 Ver Anúncios Aprovados</a>
+        <a href='listar.php'>📄 Ver Anúncios</a>
         <a href='criar.php'>➕ Criar Novo Anúncio</a>
         <a href='../logout.php'>🚪 Sair</a>
     </div>
